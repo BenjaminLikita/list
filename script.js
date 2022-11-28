@@ -1,4 +1,3 @@
-let form = document.getElementById("task_list")
 let list = document.getElementById("list")
 let filter = document.getElementById("filter")
 let clearBtn = document.getElementById("clear")
